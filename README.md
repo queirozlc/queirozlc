@@ -1,7 +1,9 @@
-<code>
-  System.out.prinln("Hi there 👋")
-</code>
 
+  <pre align="center" >
+    <code>
+      System.out.prinln("Hi there 👋! I'm Lucas")
+    </code>
+  </pre>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=queirozlc&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozlc&layout=compact&langs_count=6&theme=light"/>
@@ -25,6 +27,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
  
-  ![Snake animation](https://github.com/queirozlc/queirozlc/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/queirozlc/queirozlc/blob/output/github-contribution-grid-snake.svg)-->
  
 </div>
