@@ -1,9 +1,4 @@
 
-  <pre align="center" >
-    <code>
-      System.out.prinln("Hi there 👋! I'm Lucas")
-    </code>
-  </pre>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=queirozlc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozlc&layout=compact&langs_count=6&theme=dracula"/>
